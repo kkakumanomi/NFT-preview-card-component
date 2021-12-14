@@ -1,0 +1,85 @@
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  margin: auto;
+  text-align: left;
+  width: 1440px;
+}
+
+p {
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}
+
+hr {
+  background-color: hsl(215, 51%, 70%);
+  border: none;
+  height: 0.2px;
+}
+
+
+
+/********************************Class Selectors**********************************/
+
+
+.card {
+  background-color: hsl(216, 50%, 16%);
+  width: 330px;
+  margin: auto;
+  margin-top: 40px;
+  padding: 30px;
+  border-style: hidden;
+  border-radius: 3%;
+}
+
+.equilibrium {
+width: 330px;
+margin: auto;
+border-style: hidden;
+border-radius: 3%;
+}
+
+.heading {
+  font-family: 'Outfit', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: white;
+}
+
+.eth {
+  display: inline-block;
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: hsl(178, 100%, 50%);
+}
+
+.days {
+  display: inline-block;
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: hsl(215, 51%, 70%);
+  float: right;
+}
+
+
+.avatar {
+  border-radius: 50%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  margin-right: 10px;
+  width: 30px;
+}
+
+.creator {
+  color: white;
+}
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
